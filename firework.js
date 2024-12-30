@@ -1,4 +1,4 @@
- const container = document.getElementById('container');
+ const container = document.getElementById('fire-container');
  const SPARK_COUNT = 10;    // 一次生成火花的数量
  const SPARK_TTL = 500;     // 每个火花持续时间 (ms)
  const LIGHTNING = true; //开关闪电
